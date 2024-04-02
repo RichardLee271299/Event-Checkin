@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "codescanner",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/twostraws/CodeScanner",
+      "state" : {
+        "branch" : "main",
+        "revision" : "f14c3b148890c21ed0f6874885a6e5f552d41b0f"
+      }
+    }
+  ],
+  "version" : 2
+}
